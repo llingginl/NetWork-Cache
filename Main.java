@@ -113,7 +113,7 @@ public class Main {
         double res = cahce.get(index);
 
         if (res == -1){
-            double fileSize =
+            //double fileSize =
         }
 
 
